@@ -1,1 +1,4 @@
-# Ignacio_Qui-ones_Cervantes_4-B_cla
+# Ignacio Quiñones Cervantes
+**Nombre:** Ignacio Quiñones Cervantes
+**Grupo:** 4-B
+**Materia:** Programacion Orientada a Objetos
